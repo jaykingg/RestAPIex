@@ -1,5 +1,5 @@
-# *RestFUL API 프로젝트*
-## RestFUL API 프로젝트.
+# *RestFUL API*
+## Spring RESTFUL API 프로젝트.
 
 ### Why did i choose this.
 
